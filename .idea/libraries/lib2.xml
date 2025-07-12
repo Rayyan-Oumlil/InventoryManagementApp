@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/flatlaf-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/flatlaf-intellij-themes-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/jgoodies-common-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryManagementSystem-master/dist/lib/mysql-connector-java-8.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
